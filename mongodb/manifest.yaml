@@ -1,6 +1,6 @@
  apiVersion: apps/v1
  kind: Deployment
- matadata:
+ metadata:
   name: mongodb
   namespace: roboshop
   #there are replica set labels
